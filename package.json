@@ -5,6 +5,7 @@
   "scripts": {
     "start": "vscode-status.js"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
