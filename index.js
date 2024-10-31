@@ -4,8 +4,6 @@ import cors from 'cors';
 const app = e()
 const PORT = process.env.PORT || 3000;
 
-
-
 app.use(cors());
 app.use(e.json());
 
